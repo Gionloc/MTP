@@ -1,0 +1,22 @@
+Id :e
+Nume :r
+Adresa :t
+               
+Id Salariat: dsa
+Id Departament Salariat: e
+Nume Salariat: dsa
+Post: ads
+Salariu : dsa
+Data angajarii:fd
+Id :e
+Nume :r
+Adresa :t
+               
+Id Salariat: rt
+Id Departament Salariat: e
+Nume Salariat: dsa
+Post: das
+Salariu : dsa
+Data angajarii:das
+Deprtamentul are:2 salariati
+------------------
