@@ -1,0 +1,6 @@
+Numar inventar: dasd
+Model: dsa
+Categorie: Calculator
+Producator: dsad
+Nume responsabil: dsa
+CNP: dsa
