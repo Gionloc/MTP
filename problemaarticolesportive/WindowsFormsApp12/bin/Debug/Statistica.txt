@@ -1,0 +1,16 @@
+Categorie:Imbracaminte_fitness
+Numar inventar: da
+Nume produs: dsa
+Producator: dsa
+Pret: dsa
+Numar bucati : dsa
+------------------
+Categorie:Imbracaminte_fitness
+Numar inventar: da
+Nume produs: fdsfsf
+Producator: dsa
+Pret: dsa
+Numar bucati : dsa
+------------------
+Categoria are:2 produse
+------------------
